@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/ENGLISH-4285F4?style=flat&logo=googletranslate&logoColor=white" alt="Google Translate Badge">
   </a>
 </p>
+
 # Extrator de Dividendos
 
 ## Descrição

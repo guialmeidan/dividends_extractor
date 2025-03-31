@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://github.com/guialmeidan/dividends_extractor/blob/main/README-pt.md">
+    <img src="https://img.shields.io/badge/PORTUGUESE-4285F4?style=flat&logo=googletranslate&logoColor=white" alt="Google Translate Badge">
+  </a>
+</p>
 # Dividend Extractor
 
 ## Description
